@@ -1,0 +1,8 @@
+{
+  "name": "Lumina Finance",
+  "description": "A high-end, Pastel Zen personal finance SaaS powered by AI and multi-currency intelligence.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
